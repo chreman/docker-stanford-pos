@@ -1,2 +1,1 @@
-# docker-stanford-pos
- simple dockerfile for server based stanforder POS tagger
+A very simple docker file intended to run the [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.shtml) as a localhost service.
